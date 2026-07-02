@@ -9,7 +9,7 @@ Bu proje, kullanıcıların en uygun sağlık sigortası tekliflerini anlık ola
 
 
 ## 🛠️ Kullanılan Teknolojiler
-- **Backend:** C# / ASP.NET Core (veya NodeJS / PHP)
+C# / ASP.NET Core 
 
 
 ## ⚙️ Kurulum ve Çalıştırma
